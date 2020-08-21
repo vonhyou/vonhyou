@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+這是一隻普通的過期薯條同學qwq，現就讀CQUPT，軟件工程專業
+
+I am an ordinary newbie🍟, now studying at CQUPT, major in software engineering.
+
+My twitter: @vonhyou
+
+You can contact me by email: vonhyou@lenva.tech
+
 <!--
 **vonhyou/vonhyou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
