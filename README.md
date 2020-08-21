@@ -4,7 +4,7 @@
 
 I am an ordinary newbie🍟, now studying at CQUPT, major in software engineering.
 
-My twitter: @vonhyou
+My twitter: [@vonhyou](https://twitter.com/vonhyou)
 
 You can contact me by email: vonhyou@lenva.tech
 
