@@ -8,7 +8,7 @@ My twitter: @vonhyou
 
 You can contact me by email: vonhyou@lenva.tech
 
-![vonhyou's github stats](https://github-readme-stats.vercel.app/api?username=vonhyou&show_icons=true&theme=tokyonight)
+![vonhyou's github stats](https://github-readme-stats.vercel.app/api?username=vonhyou&show_icons=true&theme=merko)
 
 <!--
 **vonhyou/vonhyou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
