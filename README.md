@@ -1,6 +1,4 @@
-### Hi there 👋
-
-這是一隻普通的過期薯條同學qwq，現就讀CQUPT，軟件工程專業
+### Hi there 👋 這是一隻普通的過期薯條🍟同學qwq
 
 I am an ordinary newbie🍟, now studying at CQUPT, major in software engineering.
 
