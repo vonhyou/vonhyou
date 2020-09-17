@@ -8,7 +8,7 @@ You can contact me by email: vonhyou@lenva.tech
 
 ![vonhyou's github stats](https://github-readme-stats.vercel.app/api?username=vonhyou&show_icons=true&theme=dracula&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vonhyou&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vonhyou&layout=compact&hide=css,html,javascript)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **vonhyou/vonhyou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
