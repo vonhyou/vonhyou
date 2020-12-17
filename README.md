@@ -17,6 +17,7 @@ iPad Pro 11-inch 2nd gen 256GB **Space Grey** with Pencil 2nd gen
 
 Beats Studio3 Wireless **Shadow Gray**
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vonhyou&layout=compact&hide=css,html,scss)](https://github.com/anuraghazra/github-readme-stats)
+
 ![vonhyou's github stats](https://github-readme-stats.vercel.app/api?username=vonhyou&show_icons=true&theme=dracula&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vonhyou&layout=compact&hide=css,html,scss)](https://github.com/anuraghazra/github-readme-stats)
