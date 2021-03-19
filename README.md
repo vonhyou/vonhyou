@@ -1,6 +1,6 @@
-### Hi there 👋 這是一隻普通的過期薯條🍟同學qwq [![](https://img.shields.io/twitter/follow/vonhyou)](http://twitter.com/vonhyou)
+### Hi there 👋, this is [![](https://img.shields.io/twitter/follow/vonhyou)](http://twitter.com/vonhyou)
 
-An ordinary newbie🍟, Study at CQUPT, Major in **S**oftware **E**ngineering.
+ Life is fantastic, I learn everything!
 
 **Platform&Tool:** 
 
