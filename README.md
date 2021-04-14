@@ -21,6 +21,6 @@
 
 - Faber-Castell, Loom Metallic fountain pen, EF **Light Blue**
 
-![vonhyou's github stats](https://github-readme-stats.vercel.app/api?username=vonhyou&show_icons=true&bg_color=252a34&text_color=eaeaea&title_color=ff2e63&icon_color=08d9d6&count_private=true)
+![vonhyou's github stats](https://github-readme-stats.vercel.app/api?username=vonhyou&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vonhyou&layout=compact&bg_color=252a34&text_color=eaeaea&title_color=ff2e63)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vonhyou&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
