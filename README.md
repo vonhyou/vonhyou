@@ -2,10 +2,12 @@
 
  Life is fantastic, I learn everything!
 
-**Platform&Tool:** 
+**Platform, Tool and Language:** 
 
 [![](https://img.shields.io/badge/macOS-Big%20Sur-e94256?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/big-sur/)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=ffffff)](https://code.visualstudio.com/)
+
+<img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white"/><img alt="Rails" src="https://img.shields.io/badge/rails%20-%23CC0000.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white"/><img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/><img alt="Swift" src="https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white"/>
 
 **Devices:**
 
