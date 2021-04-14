@@ -11,15 +11,15 @@
 
 **Devices:**
 
-MacBook Air 2020, Quad-Core Intel Core i5 **Silver**
+- MacBook Air 2020, Quad-Core Intel Core i5 **Silver**
 
-iPhone XR, 64GB **Yellow**
+- iPhone XR, 64GB **Yellow**
 
-iPad Pro 11-inch 2nd gen, 256GB **Space Grey** with Pencil 2nd gen
+- iPad Pro 11-inch 2nd gen, 256GB **Space Grey** with Pencil 2nd gen
 
-Beats Studio3 Wireless **Shadow Gray**
+- Beats Studio3 Wireless **Shadow Gray**
 
-Faber-Castell, Loom Metallic fountain pen, EF **Light Blue**
+- Faber-Castell, Loom Metallic fountain pen, EF **Light Blue**
 
 ![vonhyou's github stats](https://github-readme-stats.vercel.app/api?username=vonhyou&show_icons=true&bg_color=252a34&text_color=eaeaea&title_color=ff2e63&icon_color=08d9d6&count_private=true)
 
