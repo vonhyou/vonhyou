@@ -1,4 +1,7 @@
-### Hi there 👋, this is [![](https://img.shields.io/twitter/follow/vonhyou)](http://twitter.com/vonhyou)
+### Hi there 👋, this is [![](https://img.shields.io/twitter/follow/vonhyou)](http://twitter.com/vonhyou) 
+<a href="https://dev.to/vonhyou">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="过期薯条同学's DEV Community Profile" height="30" width="30">
+</a>
 
  Life is fantastic, I learn everything!
 
