@@ -1,5 +1,5 @@
-<img align="right" alt="vonhyou's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=vonhyou&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true">
-<img align="right" alt="vonhyou's most used lang" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vonhyou&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" width="495">
+<img align="right" alt="vonhyou's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=vonhyou&count_private=true">
+<img align="right" alt="vonhyou's most used lang" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vonhyou">
 
 ### Hi there 👋, this is [![](https://img.shields.io/twitter/follow/vonhyou)](http://twitter.com/vonhyou) 
 <a href="https://dev.to/vonhyou">
