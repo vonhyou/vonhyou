@@ -30,3 +30,8 @@ Life is fantastic, I learn everything!
 - Beats Studio3 Wireless **Shadow Gray**
 
 - Faber-Castell, Loom Metallic fountain pen, EF **Light Blue**
+
+**Pinned Project:**
+
+- **[lisp-interpreter](https://github.com/vonhyou/lisp-interpreter):** Yet another lisp interpreter, ruby
+
