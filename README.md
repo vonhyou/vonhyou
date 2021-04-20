@@ -1,9 +1,11 @@
+<img align="right" alt="CoelacanthusHex's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=vonhyou&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true">
+
 ### Hi there 👋, this is [![](https://img.shields.io/twitter/follow/vonhyou)](http://twitter.com/vonhyou) 
 <a href="https://dev.to/vonhyou">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="过期薯条同学's DEV Community Profile" height="30" width="30">
 </a>
 
- Life is fantastic, I learn everything!
+Life is fantastic, I learn everything!
 
 **Platform, Tool and Language:** 
 
@@ -24,7 +26,5 @@
 - Beats Studio3 Wireless **Shadow Gray**
 
 - Faber-Castell, Loom Metallic fountain pen, EF **Light Blue**
-
-![vonhyou's github stats](https://github-readme-stats.vercel.app/api?username=vonhyou&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vonhyou&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" width="495">
