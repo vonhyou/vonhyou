@@ -29,6 +29,8 @@ Life is fantastic, I learn everything!
 
 - Beats Studio3 Wireless **Shadow Gray**
 
+- AirPods Pro
+
 - Faber-Castell, Loom Metallic fountain pen, EF **Light Blue**
 
 **Pinned Projects:**
