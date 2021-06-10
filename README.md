@@ -1,1 +1,40 @@
-![Metrics](https://metrics.lecoq.io/vonhyou?template=classic&languages=1&isocalendar=1&achievements=1&pagespeed=1&tweets=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&tweets.attachments=false&tweets.limit=2&tweets.user=.user.twitter&config.timezone=Asia%2FShanghai)
+<img align="right" alt="vonhyou's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=vonhyou&count_private=true"></li>
+<!--
+<img align="right" alt="vonhyou's most used lang" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vonhyou&layout=compact">
+-->
+### Hi there 👋, this is [![](https://img.shields.io/twitter/follow/vonhyou)](http://twitter.com/vonhyou) 
+<!--
+<a href="https://dev.to/vonhyou">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="过期薯条同学's DEV Community Profile" height="30" width="30">
+</a>
+-->
+
+Life is fantastic, I learn everything!
+
+**Platform, Tool and Language:** 
+
+[![](https://img.shields.io/badge/macOS-Big%20Sur-e94256?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/big-sur/)
+[![](https://img.shields.io/badge/IDE-VSC-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=ffffff)](https://code.visualstudio.com/)
+[![](https://img.shields.io/badge/IDE-JetBrains-000000?style=flat-square&logo=JetBrains&logoColor=ffffff)](https://www.jetbrains.com)
+
+<img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=flat-square&logo=ruby&logoColor=white"/> <img alt="Rails" src="https://img.shields.io/badge/rails%20-%23CC0000.svg?&style=flat-square&logo=ruby-on-rails&logoColor=white"/> <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=flat-square&logo=c%2B%2B&ogoColor=white"/> <img alt="Swift" src="https://img.shields.io/badge/swift-%23FA7343.svg?&style=flat-square&logo=swift&logoColor=white"/>
+
+**Devices:**
+
+- MacBook Air 2020, Quad-Core Intel Core i5 **Silver**
+
+- iPhone XR, 64GB **Yellow**
+
+- iPad Pro 11-inch 2nd gen, 256GB **Space Grey** with Pencil 2nd gen
+
+- Beats Studio3 Wireless **Shadow Gray**
+
+- AirPods Pro
+
+- Faber-Castell, Loom Metallic fountain pen, EF **Light Blue**
+
+**Pinned Projects:**
+
+- **[lisp-interpreter](https://github.com/vonhyou/lisp-interpreter):** Yet another lisp interpreter, ruby
+- **[get-twitter-dm-btn](https://github.com/vonhyou/get-twitter-dm-btn):** Generate a beautiful button for DM request on twitter.
+
