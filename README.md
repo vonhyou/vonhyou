@@ -1,4 +1,9 @@
-<img align="right" alt="vonhyou's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=vonhyou&count_private=true"></li>
+<img align="right" alt="vonhyou's github stats" 
+     width="50%" 
+     src="https://github-readme-stats.vercel.app/api?username=vonhyou&count_private=true">
+<img align="right" alt="vonhyou's codersrank chart" 
+     width="50%" 
+     src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=vonhyou">
 <!--
 <img align="right" alt="vonhyou's most used lang" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vonhyou&layout=compact">
 -->
@@ -17,15 +22,15 @@ Life is fantastic, I learn everything!
 [![](https://img.shields.io/badge/IDE-VSC-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=ffffff)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/IDE-JetBrains-000000?style=flat-square&logo=JetBrains&logoColor=ffffff)](https://www.jetbrains.com)
 
-<img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=flat-square&logo=ruby&logoColor=white"/> <img alt="Rails" src="https://img.shields.io/badge/rails%20-%23CC0000.svg?&style=flat-square&logo=ruby-on-rails&logoColor=white"/> <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=flat-square&logo=c%2B%2B&ogoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=white"/> <img alt="Swift" src="https://img.shields.io/badge/swift-%23FA7343.svg?&style=flat-square&logo=swift&logoColor=white"/>
+<img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=flat-square&logo=ruby&logoColor=white"/> <!--<img alt="Rails" src="https://img.shields.io/badge/rails%20-%23CC0000.svg?&style=flat-square&logo=ruby-on-rails&logoColor=white"/>--> <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=flat-square&logo=c%2B%2B&ogoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=white"/> <!--<img alt="Swift" src="https://img.shields.io/badge/swift-%23FA7343.svg?&style=flat-square&logo=swift&logoColor=white"/> -->
 
 **Devices:**
 
 - MacBook Air 2020, Quad-Core Intel Core i5 **Silver**
 
-- iPhone XR, 64GB **Yellow**
+- iPhone XR, **Yellow**
 
-- iPad Pro 11-inch 2nd gen, 256GB **Space Grey** with Pencil 2nd gen
+- iPad Pro 11-inch 2nd gen, **Space Grey** with Pencil 2nd gen
 
 - Beats Studio3 Wireless **Shadow Gray**
 
@@ -37,5 +42,3 @@ Life is fantastic, I learn everything!
 
 - **[lisp-interpreter](https://github.com/vonhyou/lisp-interpreter):** Yet another lisp interpreter, ruby
 - **[get-twitter-dm-btn](https://github.com/vonhyou/get-twitter-dm-btn):** Generate a beautiful button for DM request on twitter.
-
-![codersrank skills chart](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=vonhyou)
