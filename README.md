@@ -36,8 +36,6 @@ Life is fantastic, I learn everything!
 
 - AirPods Pro
 
-- Faber-Castell, Loom Metallic fountain pen, EF **Light Blue**
-
 **Pinned Projects:**
 
 - **[lisp-interpreter](https://github.com/vonhyou/lisp-interpreter):** Yet another lisp interpreter, ruby
