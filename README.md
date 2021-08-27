@@ -39,4 +39,3 @@ Life is fantastic, I learn everything!
 **Pinned Projects:**
 
 - **[lisp-interpreter](https://github.com/vonhyou/lisp-interpreter):** Yet another lisp interpreter, ruby
-- **[get-twitter-dm-btn](https://github.com/vonhyou/get-twitter-dm-btn):** Generate a beautiful button for DM request on twitter.
