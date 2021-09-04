@@ -34,9 +34,7 @@ Life is fantastic, I learn everything!
 
 - iPad Pro 11-inch 2nd gen, **Space Grey** with Pencil 2nd gen
 
-- Beats Studio3 Wireless **Shadow Gray**
-
-- AirPods Pro
+- Essential Phone PH-1, **Copper Black**
 
 **Pinned Projects:**
 
