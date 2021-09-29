@@ -34,6 +34,8 @@ Life is fantastic, I learn everything!
 
 - iPad Pro 11-inch 2nd gen, **Space Grey** with Pencil 2nd gen
 
+- Pixel 4, **Just Black**
+
 - Essential Phone PH-1, **Copper Black**
 
 **Pinned Projects:**
