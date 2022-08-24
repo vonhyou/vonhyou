@@ -17,6 +17,6 @@ Life is fantastic, I learn everything!
 
 **Short-term goals:**
 
-- Find my first co-op job in **Summer 2023**
-- Reach CEFR A2 in **French**
-- Read three books within the next month
+- [0/1] Find my first co-op job in **Summer 2023**
+- [0/2] Reach CEFR A2 in **French**
+- [1/3] Read three books within the next month
