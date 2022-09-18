@@ -19,4 +19,3 @@ Life is fantastic, I learn everything!
 
 - [0/1] Find my first co-op job in **Summer 2023**
 - [0/2] Reach CEFR A2 in **French**
-- [1/3] Read three books within the next month
