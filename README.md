@@ -1,7 +1,3 @@
-<img alt="vonhyou's github stats" 
-     align="right" width="50%"
-     src="https://github-readme-stats.vercel.app/api?username=vonhyou&count_private=true">
-
 ### Hi there 👋, this is [![](https://img.shields.io/twitter/follow/vonhyou?style=flat-square&logo=twitter&logoColor=ffffff)](http://twitter.com/vonhyou) 
 
 Life is fantastic, I learn everything!
