@@ -16,8 +16,6 @@ Life is fantastic, I learn everything!
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
 **I Mostly Code in HTML** 
 
 ```text
@@ -31,5 +29,5 @@ Rust                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 07/01/2023 22:35:28 UTC
+ Last Updated on 07/01/2023 23:24:02 UTC
 <!--END_SECTION:waka-->
