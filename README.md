@@ -16,4 +16,20 @@ Life is fantastic, I learn everything!
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+**I Mostly Code in HTML** 
+
+```text
+HTML                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+Ruby                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.43% 
+CSS                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.43% 
+Rust                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.71%
+
+```
+
+
+
+ Last Updated on 07/01/2023 22:27:55 UTC
 <!--END_SECTION:waka-->
