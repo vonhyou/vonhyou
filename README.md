@@ -13,9 +13,3 @@ Life is fantastic, I learn everything!
 [![](https://img.shields.io/badge/IntelliJ&nbsp;IDEA-000000?style=flat-square&logo=intellijidea&logoColor=ffffff)](https://www.jetbrains.com/idea/)
 [![](https://img.shields.io/badge/Visual&nbsp;Studio&nbsp;Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=ffffff)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=ffffff)](https://neovim.io/)
-
-
-**Short-term goals:**
-
-- [0/1] Find my first co-op job in **Summer 2023**
-- [0/2] Reach CEFR A2 in **French**
