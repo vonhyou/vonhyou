@@ -12,5 +12,4 @@ Life is fantastic, I learn everything!
 
 
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
