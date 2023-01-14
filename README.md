@@ -14,6 +14,7 @@ Life is fantastic, I learn everything!
 [![](https://img.shields.io/badge/Visual&nbsp;Studio&nbsp;Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=ffffff)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=ffffff)](https://neovim.io/)
 
+![](https://github-profile-trophy.vercel.app/?username=vonhyou&theme=oldie&margin-w=5&no-bg=true&no-frame=true&row=1&column=5)
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
