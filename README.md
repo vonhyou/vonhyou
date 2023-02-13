@@ -1,6 +1,6 @@
 <img alt="vonhyou's github stats" 
      align="right" width="50%"
-     src="https://github-readme-stats.vercel.app/api?username=vonhyou&count_private=true">
+     src="https://bad-apple-github-readme.vercel.app/api?username=vonhyou&count_private=true&show_bg=1&hide_rank=true">
 
 ### Hi there 👋, je suis 過期薯條
 
