@@ -2,7 +2,7 @@ name: Waka Readme
 
 on:
   schedule:
-    - cron: '0 */8 * * 1,2,3,4,5'
+    - cron: '0 */4 * * *'
   workflow_dispatch:
   
 jobs:
@@ -27,4 +27,4 @@ jobs:
           UPDATED_DATE_FORMAT: "%b %d, %Y"
           LOCALE: "en"
           SHOW_TIMEZONE: "False"
-          COMMIT_BY_ME: "True"
+          COMMIT_BY_ME: "False"
