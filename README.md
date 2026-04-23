@@ -1,4 +1,15 @@
-### Hi there 👋, je suis Shuo Feng
+## Hi there, this is Shuò 👋
+
+PhD student at Concordia University (Montréal QC), researching **HCI and XR**, \
+incl but not limited to virtual/augmented environments, medical imaging, and \
+real-time rendering.
+
+I also enjoy reinventing wheels at the intersection of interactive software and \
+a little bit of system programming, like game engines, UI frameworks, graphics \
+tooling etc.
+
+The best way to reach me is through the email, I read everything. \
+PGP key available if you need it
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
@@ -21,5 +32,3 @@ Windows                  2 hrs 9 mins        ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀�
 
  Last Updated on Apr 23, 2026 UTC
 <!--END_SECTION:waka-->
-
-[![wakatime](https://wakatime.com/badge/user/1b187e9e-d667-47d5-aa40-13a3236e54b6.svg)](https://wakatime.com/@1b187e9e-d667-47d5-aa40-13a3236e54b6) since Jan. 2023
