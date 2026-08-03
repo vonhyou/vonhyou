@@ -28,3 +28,4 @@ jobs:
           LOCALE: "en"
           SHOW_TIMEZONE: "False"
           COMMIT_BY_ME: "False"
+          SHOW_AI_CODING: "False"
