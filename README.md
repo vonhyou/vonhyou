@@ -12,8 +12,6 @@ The best way to reach me is through the email, **I read everything**. \
 PGP key available if you need it
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-12%20hrs%2053%20mins-blue?style=flat)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
